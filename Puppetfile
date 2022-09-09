@@ -16,7 +16,7 @@ forge 'https://forge.puppet.com'
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
 mod 'puppetlabs-puppet_operational_dashboards', '1.2.0'
-mod 'puppet-grafana', '10.0.1'
+mod 'puppet-grafana', '11.0.0'
 mod 'puppetlabs-stdlib', '7.1.0'
 mod 'puppet-telegraf', '4.1.0'
 mod 'puppetlabs-apt', '8.3.0'
